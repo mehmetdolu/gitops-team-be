@@ -1,2 +1,1 @@
-# gitops-team-be
-Backend Developer Team Repository
+# gitops-team-fe
